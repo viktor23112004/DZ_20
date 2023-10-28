@@ -1,3 +1,16 @@
 nav ul li a {
     padding: 0 30px;
 }
+
+.btn-1 .btn-large {
+    text-transform: none;
+    font-size: 25px;
+}
+
+.btn-1 {
+    margin-bottom: 60px;
+}
+
+.song {
+    margin-bottom: 60px;
+}
