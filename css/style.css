@@ -14,3 +14,40 @@ nav ul li a {
 .song {
     margin-bottom: 60px;
 }
+
+/* footer */
+.footlr {
+    padding: 20px 0;
+}
+
+.foot-left {
+    display: flex;    
+}
+
+.foot-left h6.privacy {
+    margin-right: 15px;    
+}
+
+.foot-left h6 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.foot-right li img {
+    width: 30px;
+}
+
+.foot-right {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.foot-right li {
+    margin-left: 20px;
+    padding-bottom: 0;
+} 
+
+.foot-right li:first-child {
+    font-weight: 500;
+    font-size: 20px;
+}
